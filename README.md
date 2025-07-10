@@ -18,6 +18,10 @@ A simple and interactive stock tracking web application built with HTML, CSS, an
 - **JavaScript**
 - **Chart.js** – for rendering stock price graphs
 
+**📷 Screenshots**
+<img width="1356" height="677" alt="image" src="https://github.com/user-attachments/assets/bef3e26d-43ee-4f0d-ae2b-b1701d517269" />
+<img width="1366" height="686" alt="image" src="https://github.com/user-attachments/assets/1fd28cb9-7141-4b0f-8def-b6b73de66918" />
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/76ee7593-221f-449e-9206-b3bfe85b3ab6" />
 
 **📬 Contact**
 
@@ -26,10 +30,5 @@ Manaswini Sasmal
 📧 LinkedIn -- https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
 
 🌐 Portfolio -- https://manaswini-portfolio.vercel.app/
-
-**📷 Screenshots**
-<img width="1356" height="677" alt="image" src="https://github.com/user-attachments/assets/bef3e26d-43ee-4f0d-ae2b-b1701d517269" />
-<img width="1366" height="686" alt="image" src="https://github.com/user-attachments/assets/1fd28cb9-7141-4b0f-8def-b6b73de66918" />
-<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/76ee7593-221f-449e-9206-b3bfe85b3ab6" />
 
 
