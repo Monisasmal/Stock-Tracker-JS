@@ -39,6 +39,6 @@ A simple and interactive stock tracking web application built with HTML, CSS, an
 
 🌐 Portfolio -- https://manaswini-portfolio.vercel.app/
 
-## Manaswini Sasmal
+##Auther - Manaswini Sasmal
 
 
